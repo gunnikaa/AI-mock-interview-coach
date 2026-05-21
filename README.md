@@ -2,7 +2,7 @@
 
 An interactive, full-stack mock interview platform that conducts adaptive technical and behavioral interviews, evaluates both content and delivery, and provides personalized coaching feedback.
 
-Built on a **multi-agent architecture** with five specialized agents that handle different aspects of the interview pipeline — questioning, evaluation, strategy, coaching, and answer rewriting.
+Built on a **multi-agent architecture** with five specialized agents that handle different aspects of the interview pipeline : questioning, evaluation, strategy, coaching, and answer rewriting.
 
 ---
 
